@@ -2,8 +2,6 @@
 
 PERSONAL BIOGRAPHY
 
-⸻
-
  SERVICE NUMBER: 212034
 
 LANCE CORPORAL DONKOR MAXWELL EBO BEEDU
@@ -17,9 +15,8 @@ PERSONAL INFORMATION
 * Place of Birth: Asankrangwa, Western Region, Ghana
 * Hobbies: Reading and listening to music.
 
-⸻
 
-🎓 EDUCATIONAL BACKGROUND
+ EDUCATIONAL BACKGROUND
 
 1. Junior High School (JHS)
     * Institution: Asanco Model
@@ -30,7 +27,6 @@ PERSONAL INFORMATION
     * Location: Wassa Akropong, Western Region
     * Completion Date: April 2016
 
-⸻
 
  MILITARY CAREER
 
@@ -50,9 +46,7 @@ I have undergone the following military training and participated in several exe
 
 These experiences have contributed to my military career and professional development.
 
-⸻
-
-💻 PERSONAL ASPIRATION
+PERSONAL ASPIRATION
 
 It is my wish to acquire computer knowledge and skills to enable me to fit into the modern digital world.
 
